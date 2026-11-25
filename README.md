@@ -7,7 +7,8 @@ Currently coursing my fourth semester at the Universidad de la Costa, CUC.
 ### About me:
 I'm a big fan of videogames, literature, history and computing!  \
   \
-I've been interacting with these things for as long as I have memory, it's always been a great interest of mine to be able to use them as ways to make the world a better place.
+I've been interacting with these things for as long as I have memory, it's always been a great interest of mine to be able to use them as ways to make the world a better place.  \
+I've got an interest for software development as a whole, but especially web development and systems design, I'm always open to know more!
 
 ### Languages I can use:
 <p align="center">
