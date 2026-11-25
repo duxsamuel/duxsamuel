@@ -1,4 +1,6 @@
-![...](https://64.media.tumblr.com/379ca92a5c5ca0acb914b9dd274fa289/d2d0ec5784f1dd94-b3/s540x810/81f592fc3be829fdceb66ce9da3c859180058819.gif)
+<p align="center">
+  <img src="https://64.media.tumblr.com/379ca92a5c5ca0acb914b9dd274fa289/d2d0ec5784f1dd94-b3/s540x810/81f592fc3be829fdceb66ce9da3c859180058819.gif" alt="Kim y Harry" style="border-radius: 10px;">
+</p>
 
 # Hi there! 👋
 I'm Samuel, I'm a systems engineering student from Colombia.
